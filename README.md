@@ -41,19 +41,19 @@ Although Zelle does have some important weaknesses, I don't believe they're set 
 
 ## Results
 
-* What has been the business impact of this company so far?
+# What has been the business impact of this company so far?
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+# What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+# How is your company performing relative to competitors in the same domain?
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+# If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+# Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilize?
+# What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
+# Why are these technologies appropriate for your solution?
