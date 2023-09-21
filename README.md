@@ -1,7 +1,19 @@
 # *Zelle*
-# What is the background of your company? What do they do? Who are their competitors? 
+
+# When was the company incorporated? / # Who are the founders of the company?
+
+Zelle was incorporated in June 2017 as the successor to clearXchange payment services, which was initally founded in 2011. Zelle is a product of Early Warning Services, LLC, which is owned by 7 of America's largest banks: Bank of America, Truist, Capital One, JPMorgan Chase, PNC Bank, U.S. Bank and Wells Fargo.
+
+# Who are the founders of the company?
+
+# How did the idea for the company (or project) come about?
+Zelle was originally called ClearXchange and was created as a competitor to Venmo and Paypal. However, the app was slow and was not userfriendly, therefore, gained a bad repututaion. The company then sold to Early Warning Services, LLC., in 2016. Early Warning Services, LLC, is privately owned by 7 of America's largest banks: Bank of America, Truist, Capital One, JPMorgan Chase, PNC Bank, U.S. Bank and Wells Fargo. Under new management, ClearXXchange was rebranded to Zelle and launched in 2017 with over 924 banks participating in its payment network. 
+
+# What is the background of your company? What do they do? Who are their competitors? What specific financial problem is the company or project trying to solve?
 
 Zelle is a peer-to-peer(P2P) company that speeds up electronic payments bewteen 2 people securely. It is considered a safe and secure way to send money because it does not require any sensitive financial information and they also do not hold funds. They are literally a middle-man to transfer funds from one bank to another. Their competitors include CashApp, Venmo, Paypal, etc. 
+
+# How is the company funded? How much funding have they received?
 
 
 # How does this company use technology to their advantage? Why are they considered a FinTech company?
@@ -18,3 +30,47 @@ Nothing in life is perfect and Zelle is no exception. Some of their weaknesses i
 # What is the prognosis for this company? Where do they expect to be in the future?
 Although Zelle does have some important weaknesses, I don't believe they're set in stone. As time goes on, I believe they will find a work around to fix these weaknesses and also adapt to technology to make their app more convenient for users. All in all, I see longevity for Zelle in the future. 
 
+# TITLE
+
+## Overview and Origin
+
+
+
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+
+* What are the other major companies in this domain?
+
+
+## Results
+
+* What has been the business impact of this company so far?
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+* How is your company performing relative to competitors in the same domain?
+
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
