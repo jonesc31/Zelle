@@ -1,10 +1,10 @@
 # *Zelle*
 
-# When was the company incorporated? / # Who are the founders of the company?
+## When was the company incorporated? / # Who are the founders of the company?
 
 Zelle was incorporated in June 2017 as the successor to clearXchange payment services, which was initally founded in 2011. Zelle is a product of Early Warning Services, LLC, which is owned by 7 of America's largest banks: Bank of America, Truist, Capital One, JPMorgan Chase, PNC Bank, U.S. Bank and Wells Fargo.
 
-# Who are the founders of the company?
+## Who are the founders of the company?
 
 # How did the idea for the company (or project) come about?
 Zelle was originally called ClearXchange and was created as a competitor to Venmo and Paypal. However, the app was slow and was not user friendly, therefore, gained a bad repututaion. The company then sold to Early Warning Services, LLC., in 2016. Early Warning Services, LLC, is privately owned by 7 of America's largest banks: Bank of America, Truist, Capital One, JPMorgan Chase, PNC Bank, U.S. Bank and Wells Fargo. Under new management, ClearXXchange was rebranded to Zelle and launched in 2017 with over 924 banks participating in its payment network. 
