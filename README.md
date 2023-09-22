@@ -57,3 +57,8 @@ Although Zelle does have some important weaknesses, I don't believe they're set 
 # What technologies would this additional product or service utilize?
 
 # Why are these technologies appropriate for your solution?
+
+## Resources
+https://stackshare.io/zelle/zelle
+https://www.zellepay.com
+https://finty.com/us/business-models/zelle/#:~:text=One%20of%20the%20interesting%20things,banks%20a%20third%2Dparty%20fee
