@@ -77,7 +77,7 @@ Machine Learning, if not already impletmented, would be a great technolgy to ass
 
 Machine learning would allow computers to identfy patterns in data that are indicative of fraud automatically.
 
-## Resources
+# Resources
 https://stackshare.io/zelle/zelle
 https://www.zellepay.com
 https://finty.com/us/business-models/zelle/#:~:text=One%20of%20the%20interesting%20things,banks%20a%20third%2Dparty%20fee
